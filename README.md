@@ -21,6 +21,7 @@ During the model benchmarking phase, 11 different algorithms were tested (includ
 I acknowledge that predicting asset prices based solely on yesterday's price is mathematically sound for a baseline, but practically limited. In reality, financial markets are highly driven by real-world events, not just historical numbers.
 
 **Future improvements will include:**
-Global News & Sentiment Analysis (NLP): Integrating live world news to gauge geopolitical tensions, wars, and global events that instantly affect gold prices.
-Macro Indicators: Adding Federal Reserve interest rate decisions and DXY (Dollar Index) to the prediction pipeline.
-Live API Integration: Replacing manual price input with automated live data fetching via yfinance API.
+
+* Global News & Sentiment Analysis (NLP): Integrating live world news to gauge geopolitical tensions, wars, and global events that instantly affect gold prices.
+* Macro Indicators: Adding Federal Reserve interest rate decisions and DXY (Dollar Index) to the prediction pipeline.
+* Live API Integration: Replacing manual price input with automated live data fetching via yfinance API.

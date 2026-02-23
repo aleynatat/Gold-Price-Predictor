@@ -2,10 +2,6 @@
 
 # AI Gold Price Predictor (End-to-End ML Pipeline)
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-orange.svg)
-
 ## Project Overview
 This project is an end-to-end Machine Learning web application that predicts tomorrow's Gold Close Price based on today's market data. The project includes extensive exploratory data analysis (EDA), feature engineering, rigorous model benchmarking, hyperparameter tuning, and a FastAPI backend serving a responsive frontend.
 
